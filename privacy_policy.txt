@@ -1,0 +1,61 @@
+# Privacy Policy for TempMail Telegram Bot
+
+**Last Updated:** May 9 , 2025
+
+This Privacy Policy describes how your personal information is collected, used, and shared when you use the TempMail Telegram Bot ("the Bot").
+
+## 1. Information We Collect
+
+When you use our Bot, we may collect the following information:
+
+- Your Telegram user ID
+- Your Telegram username (if available)
+- Messages you send to the Bot (including commands and queries)
+- Temporary email addresses generated through the Bot
+- Emails received in your temporary inbox
+
+## 2. How We Use Your Information
+
+We use the information we collect to:
+
+- Provide and maintain the Bot's services
+- Generate and manage temporary email addresses
+- Deliver received emails to your Telegram account
+- Improve and optimize the Bot's functionality
+- Respond to your requests and support needs
+
+## 3. Data Storage and Retention
+
+- Temporary email addresses and their contents are automatically deleted after [X hours/days] of inactivity or when you explicitly delete them
+- Logs containing your interactions with the Bot may be stored for up to [X days/weeks/months] for maintenance and debugging purposes
+- We do not permanently store the contents of emails received through your temporary addresses
+
+## 4. Data Sharing
+
+We do not sell, trade, or otherwise transfer your personal information to outside parties except:
+
+- As necessary to provide the Bot's services (e.g., communicating with email servers)
+- When required by law or to protect our rights
+
+## 5. Security
+
+We implement reasonable security measures to protect your information, but please be aware that:
+
+- Temporary email services are inherently less secure than permanent email solutions
+- We cannot guarantee absolute security of data transmitted through Telegram or email protocols
+
+## 6. Your Rights
+
+You have the right to:
+
+- Stop using the Bot at any time
+- Request deletion of your data (note that temporary emails are automatically deleted as described above)
+- Access the information we have about you
+
+## 7. Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this policy.
+
+## 8. Contact Us
+
+If you have questions about this Privacy Policy, please contact us at [Your Contact Information].
